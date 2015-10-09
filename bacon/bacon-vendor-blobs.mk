@@ -61,10 +61,13 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
     vendor/oneplus/bacon/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/oneplus/bacon/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/oneplus/bacon/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/oneplus/bacon/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
+    vendor/oneplus/bacon/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/oneplus/bacon/proprietary/vendor/bin/slim_ap_daemon:system/vendor/bin/slim_ap_daemon \
     vendor/oneplus/bacon/proprietary/vendor/lib/hw/activity_recognition.msm8974.so:system/vendor/lib/hw/activity_recognition.msm8974.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
+    vendor/oneplus/bacon/proprietary/vendor/lib/hw/flp.msm8974.so:system/vendor/lib/hw/flp.msm8974.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libasn1crt.so:system/vendor/lib/libasn1crt.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libasn1crtx.so:system/vendor/lib/libasn1crtx.so \
